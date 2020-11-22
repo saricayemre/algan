@@ -3,3 +3,5 @@ python-nmap
 python3-nmap
 colorama
 time
+os
+requests
