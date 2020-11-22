@@ -12,6 +12,7 @@ Algan bir alt alan adı tarama aracıdır. **_Algan_** kelime anlamı olarak, **
 
 **_Dosyayı indirdikten sonra terminale sırasıyla aşağıdaki komutları giriniz!_**
 ```
+git clone https://github.com/saricayemre/algan
 cd algan/
 chmod +x algan.py
 sudo pip3 install -r requirement.txt
