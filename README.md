@@ -1,6 +1,6 @@
 # Subdomain(Alt Alan Adı) Tarama Aracı: Algan
 
-Algan bir alt alan adı tarama aracıdır. Python dili ile kodlanmıştır. Brute Force(Kaba kuvvet) mantığı ile çalışmaktadır. Dosyalar arasında bulunan _subdomains-100.txt_ dosyasının içinde olan alt alan adı uzantılarını sırasıyla kontrol eder. Eğer bu alt uzantılardan birisi ile alan adını bulursa ekrana yansıtır. 
+Algan bir alt alan adı tarama aracıdır. Python dili ile kodlanmıştır. Brute Force(Kaba kuvvet) mantığı ile çalışmaktadır. Dosyalar arasında bulunan _subdomains-100.txt_ dosyasının içinde olan alt alan adı uzantılarını sırasıyla kontrol eder. Eğer bu alt uzantılardan birisi ile alan adını bulursa ekrana yansıtır. Hem Windows hem de Linux ortamında çalışmaktadır. Tabiki görsel olarak görünümü Linux ortamında daha güzeldir.
 
 # Programdan Görüntü
 
@@ -10,7 +10,7 @@ Algan bir alt alan adı tarama aracıdır. Python dili ile kodlanmıştır. Brut
 
 # Kullanımı
 
-_Dosyayı indirdikten sonra terminale sırasıyla aşağıdaki komutları giriniz!_
+**_Dosyayı indirdikten sonra terminale sırasıyla aşağıdaki komutları giriniz!_**
 ```
 cd algan/
 chmod +x algan.py
